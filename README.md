@@ -1,6 +1,9 @@
-Integrative Task
+# Computing and Discrete Structures
 
-Members:
--George Trujillo
--Diana Balanta
--Samuel Soto
+## Integrative Task 1
+
+**Members:**
+
+- George Trujillo
+- Diana Balanta
+- Samuel Soto
