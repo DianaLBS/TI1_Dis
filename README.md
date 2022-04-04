@@ -1,1 +1,6 @@
-TI1_Dis
+Integrative Task
+
+Members:
+-George Trujillo
+-Diana Balanta
+-Samuel Soto
